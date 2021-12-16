@@ -1,6 +1,6 @@
-# Quiz App by using flutter
+# Quiz App 
 
-## [Watch it on YouTube](https://youtu.be/Nhy0VWAMsFU)
+
 
 **Packages we are using:**
 
@@ -11,7 +11,7 @@ Our quiz app contains a total of three-screen, the welcome screen where a user s
 
 This is a complete functional quiz app that works on both Android and iOS devices. For state management, we use the getX package.
 
-### Quiz App Final UI
+### Quiz App 
 
 <!-- ![Preview](/gif.gif) -->
 
